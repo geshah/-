@@ -1,0 +1,9 @@
+name='Evgeniy'
+print(name)
+age=57
+print(age)
+new_age=2
+age=(age+new_age)
+print(age)
+is_student=(5>3)
+print(is_student)
