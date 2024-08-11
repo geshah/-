@@ -10,6 +10,6 @@ print(my_dict)
 my_set=22,'game',2.1,22,'head',35,'game'
 my_set=set(my_set)
 print(my_set)
-my_set.update({'fool',4.2})
-my_set.remove('fool')
+my_set.update({'free',4.2})
+my_set.remove('free')
 print(my_set)
